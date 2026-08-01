@@ -60,4 +60,4 @@ Data Modeling
 
 Interactive Dashboard
 
-[Your Power BI link](https://sl1nk.com/ir6aewk)
+(https://sl1nk.com/ir6aewk)
