@@ -58,6 +58,4 @@ SQL
 Excel
 Data Modeling
 
-Interactive Dashboard
-
-![Interactive Dashboard](https://sl1nk.com/ir6aewk)
+Interactive Dashboard : https://sl1nk.com/ir6aewk
