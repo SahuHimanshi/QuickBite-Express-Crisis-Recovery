@@ -30,10 +30,12 @@ This project focused on answering five key business questions:
 
 ## 🔍 Key Insights
 
-### 📉 Crisis Impact
+### 📉 ![Crisis Impact](https://github.com/user-attachments/assets/d6341e93-08dd-4e19-be38-8c6590339c6b)
 - Revenue declined by nearly **71%**
 - Orders dropped by approximately **69%**
 - Bengaluru contributed the highest revenue loss
+
+
 
 ### 👥 Customer Recovery
 - Around **73K customers** became inactive during the crisis
@@ -63,7 +65,7 @@ This project focused on answering five key business questions:
 |----------|------|
 | Visualization | Power BI |
 | Data Modeling | Star Schema |
-| Querying | SQL |
+| Validation | SQL |
 | Data Transformation | Power Query |
 | Analytics | DAX |
 | Data Preparation | Excel |
