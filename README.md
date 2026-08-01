@@ -60,4 +60,4 @@ Data Modeling
 
 Interactive Dashboard
 
-(https://sl1nk.com/ir6aewk)
+![Interactive Dashboard](https://sl1nk.com/ir6aewk)
